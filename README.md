@@ -1,5 +1,7 @@
 # Pokernow.club logs parser: How to Use
 
+This guide assumes very basic knowledge of directories, programming in IDEs, and Python
+
 1. Create a folder that will be your workspace in your IDE. Name it your choice.
 2. Download reader.py and put it into the folder
 3. In that folder, also create a new folder called "game_logs"
